@@ -5,8 +5,6 @@ import { Container, Box, Switch, Typography } from "@mui/material";
 import PersonalInfo from "./PersonalInfo";
 import ProjectTabs from "./ProjectTabs";
 
-
-
 const App: FC = () => {
   const [darkMode, setDarkMode] = useState(true);
 

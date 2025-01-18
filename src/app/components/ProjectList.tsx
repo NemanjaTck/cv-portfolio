@@ -1,6 +1,6 @@
 "use client";
 import React, { FC } from "react";
-import { List, ListItem, Typography, Chip, Box, useTheme, Link } from "@mui/material";
+import { List, ListItem, Typography, Chip, Box, useTheme } from "@mui/material";
 
 interface Project {
   title: string;
