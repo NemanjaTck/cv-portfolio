@@ -20,7 +20,7 @@ const PersonalInfo: FC = () => {
           <Typography variant="h4" component="h1" gutterBottom>
             Nemanja Drobnjak
             <a href="https://github.com/yourusername" color="inherit">
-              <LinkedInIcon />
+              <LinkedInIcon sx={{ marginLeft: "15px" }} />
             </a>
           </Typography>
           <Typography variant="h6" gutterBottom>
