@@ -16,7 +16,7 @@ export const workProjects: Project[] = [
     dateTo: "Present",
     url: "https://www.interventure.info/",
     description:
-      "Multi-tenant multi-product application for the healthcare industry in Switzerland. Leading a team of frontend developers. Aside from responsibilities from previous position, I am also responsible for the technical direction of the frontend development, code quality, and mentoring junior developers.",
+      "Multi-tenant multi-product application for the healthcare industry in Switzerland. Leading a team of frontend developers. Aside from responsibilities from previous position, I am also responsible for the technical direction of the frontend development, code quality and mentoring junior developers.",
     technologies: ["Next.js", "React", "TypeScript", "Keycloak", "Kubernetes", "Docker", "Node.js", "Azure"],
   },
   {
@@ -45,7 +45,7 @@ export const workProjects: Project[] = [
     dateFrom: "Dec 2018",
     dateTo: "Sep 2019",
     url: "https://www.futurice.com/",
-    description: "Worked on a two different project. Most focus was on the huge scale intranet project for one of the bigger German clients. I was a part of the team of more than 20 developers and designers.",
+    description: "Worked on two different project. Most focus was on the huge scale intranet project for one of the bigger German clients. I was a part of the team of more than 20 developers and designers.",
     technologies: ["React", "AngularJs", "TypeScript", "Node.js"],
   },
   {
@@ -54,7 +54,7 @@ export const workProjects: Project[] = [
     dateFrom: "Dec 2017",
     dateTo: "Nov 2018",
     url: "https://wunder.io/",
-    description: "Worked on Drupal CMS projects, inlcluding activity on the Drupal open source, contributing to different modules.",
+    description: "Worked on Drupal CMS projects, including activity on the Drupal open source, contributing to different modules.",
     technologies: ["React", "Drupal CMS", "JavaScript", "PHP"],
   },
   {
@@ -63,7 +63,7 @@ export const workProjects: Project[] = [
     dateFrom: "Sep 2016",
     dateTo: "Apr 2017",
     url: "https://www.md-systems.ch/en",
-    description: "Worked on Drupal CMS projects, inlcluding activity on the Drupal open source, contributing to different modules.",
+    description: "Worked on Drupal CMS projects, including activity on the Drupal open source, contributing to different modules.",
     technologies: ["React", "Drupal CMS", "JavaScript", "PHP"],
   },
   {

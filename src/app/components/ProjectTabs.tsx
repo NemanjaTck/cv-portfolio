@@ -21,7 +21,14 @@ const ProjectTabs: FC = () => {
       }}
     >
       <Box sx={{ borderBottom: 1, borderColor: "divider" }}>
-        <Tabs value={activeTab} onChange={handleChange} aria-label="project tabs">
+        <Tabs
+          value={activeTab}
+          onChange={handleChange}
+          aria-label="project tabs"
+          variant="scrollable"
+          scrollButtons="auto"
+          allowScrollButtonsMobile
+        >
           <Tab label="Work Projects" />
           <Tab label="Freelance Projects" />
           <Tab label="Hobby Projects" />
